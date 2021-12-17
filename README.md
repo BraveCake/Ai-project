@@ -1,1 +1,1 @@
-# knapsack-project-GA---DE-
+# knapsack-project
